@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mirroring</string>
+    <string name="touch_description">Permette al dispositivo che visualizza lo schermo di toccare e scorrere su questo dispositivo.</string>
+</resources>
